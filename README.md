@@ -3,6 +3,9 @@
 
 In the project directory, you can run:
 
+![image](https://github.com/kkalyankumar9/cube_test/assets/112814583/8f4a9d28-b4a3-4914-b2f5-9021f1ada95e)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
